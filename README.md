@@ -12,7 +12,7 @@ Admin -> Apps and Integrations -> APIs -> Zendesk API -> Settings -> Password Ac
 
 ## Steps to Run
 1. Clone the repository
-2. Edit the encoded string in .env file 
+2. Edit the encoded string in .env file with your basic authentication encoded string.
 3. Install all npm modules 
     ``` $ npm install ```
 4. Run the program
